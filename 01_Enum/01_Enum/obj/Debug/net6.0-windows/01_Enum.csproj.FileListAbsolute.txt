@@ -1,0 +1,17 @@
+C:\Users\miram\source\repos\3ITB\01_Enum\01_Enum\bin\Debug\net6.0-windows\01_Enum.exe
+C:\Users\miram\source\repos\3ITB\01_Enum\01_Enum\bin\Debug\net6.0-windows\01_Enum.deps.json
+C:\Users\miram\source\repos\3ITB\01_Enum\01_Enum\bin\Debug\net6.0-windows\01_Enum.runtimeconfig.json
+C:\Users\miram\source\repos\3ITB\01_Enum\01_Enum\bin\Debug\net6.0-windows\01_Enum.dll
+C:\Users\miram\source\repos\3ITB\01_Enum\01_Enum\bin\Debug\net6.0-windows\01_Enum.pdb
+C:\Users\miram\source\repos\3ITB\01_Enum\01_Enum\obj\Debug\net6.0-windows\01_Enum.csproj.AssemblyReference.cache
+C:\Users\miram\source\repos\3ITB\01_Enum\01_Enum\obj\Debug\net6.0-windows\_01_Enum.Form1.resources
+C:\Users\miram\source\repos\3ITB\01_Enum\01_Enum\obj\Debug\net6.0-windows\01_Enum.csproj.GenerateResource.cache
+C:\Users\miram\source\repos\3ITB\01_Enum\01_Enum\obj\Debug\net6.0-windows\01_Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miram\source\repos\3ITB\01_Enum\01_Enum\obj\Debug\net6.0-windows\01_Enum.AssemblyInfoInputs.cache
+C:\Users\miram\source\repos\3ITB\01_Enum\01_Enum\obj\Debug\net6.0-windows\01_Enum.AssemblyInfo.cs
+C:\Users\miram\source\repos\3ITB\01_Enum\01_Enum\obj\Debug\net6.0-windows\01_Enum.csproj.CoreCompileInputs.cache
+C:\Users\miram\source\repos\3ITB\01_Enum\01_Enum\obj\Debug\net6.0-windows\01_Enum.dll
+C:\Users\miram\source\repos\3ITB\01_Enum\01_Enum\obj\Debug\net6.0-windows\refint\01_Enum.dll
+C:\Users\miram\source\repos\3ITB\01_Enum\01_Enum\obj\Debug\net6.0-windows\01_Enum.pdb
+C:\Users\miram\source\repos\3ITB\01_Enum\01_Enum\obj\Debug\net6.0-windows\01_Enum.genruntimeconfig.cache
+C:\Users\miram\source\repos\3ITB\01_Enum\01_Enum\obj\Debug\net6.0-windows\ref\01_Enum.dll

@@ -10,6 +10,7 @@ namespace WinFormsApp1
     internal class Combat
     {
         
+      
         public static Gladiator Souboj(Gladiator A, Gladiator B)
         {
             Gladiator c = null;

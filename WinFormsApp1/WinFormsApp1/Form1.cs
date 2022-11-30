@@ -6,38 +6,38 @@
         {
             InitializeComponent();
             Arena a = new Arena("asd");
-            VypisViteze();
+            //VypisViteze();
         }
-        /*
-         * TODO
-         * [GLADIATOR]
-         * bool jeHezkej;
-         * int sila, hp, zbroj, stamina
-         * string jmeno;
-         * int obratnost;
-         * [ARENA]
-         * List<Gladiator>
-         * traps?           Náhodná šance na dmg?
-         * [COMBAT]
-         * Utok(Gladiator A, Gladiator B)
-         * RegeneraceStaminy()
-         * Obrana()
-         * VyhnutiUtoku()
-         * [LEADERBOARD]
-         * List<Gladiator>
-         * int rank;
-         */
-
-        public void VypisViteze()
-        {
-            label1.Text = Arena.gladiatorList.ElementAt(0).Jmeno;
-           // label1.Text = Arena.ZahajSouboj().Jmeno.ToString();
-        }
+        
+        //penis
+        //public void VypisViteze()
+        //{
+        //   label1.Text = Arena.ZahajSouboj().Jmenao.ToString();
+        //}
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            //VypisViteze();
+            //VypisViteze()
+            VypisLeaderboard();
         }
+        void VypisLeaderboard() {
+            int X = 100;
+            int Y = 1;
+
+            for (int i = 0; i < Arena.leaderboard.Count; i++)
+            {
+                Arena.leaderboard.Add(Arena.leaderboard.ElementAt(i).Key, 0);
+                Label p = new Label();
+                p.Location = new Point(X, Y + (50 * i));
+                p.BackColor = Color.LightBlue;
+                p.Width = (Arena.leaderboard.ElementAt(i).Key.Jmeno).Length * 5;
+                p.Text = Arena.leaderboard.ElementAt(i).Key.Jmeno;
+                p.Height = 50;
+                this.Controls.Add(p);
+                Y += 40;
+            }
+        }
+        
     }
 }
 

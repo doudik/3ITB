@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "wAQ3Y57cCDm+pEQPaXtjRlr3gtBfR/Hz9149BY2XyAScoFrnVXGJzSOKUVYPYgZyjNgI08J3vxe/+sukaz7nZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\miram\\source\\repos\\3ITB\\01_Enum\\01_Enum\\01_Enum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\miram\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.11\\microsoft.netcore.app.host.win-x64.6.0.11.nupkg.sha512",
+    "C:\\Users\\miram\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.11\\microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\miram\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\miram\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.11\\microsoft.netcore.app.ref.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

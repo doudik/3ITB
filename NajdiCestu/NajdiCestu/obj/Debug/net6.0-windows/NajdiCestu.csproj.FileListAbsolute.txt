@@ -1,0 +1,17 @@
+C:\Users\miram\source\repos\3ITB\NajdiCestu\NajdiCestu\bin\Debug\net6.0-windows\NajdiCestu.exe
+C:\Users\miram\source\repos\3ITB\NajdiCestu\NajdiCestu\bin\Debug\net6.0-windows\NajdiCestu.deps.json
+C:\Users\miram\source\repos\3ITB\NajdiCestu\NajdiCestu\bin\Debug\net6.0-windows\NajdiCestu.runtimeconfig.json
+C:\Users\miram\source\repos\3ITB\NajdiCestu\NajdiCestu\bin\Debug\net6.0-windows\NajdiCestu.dll
+C:\Users\miram\source\repos\3ITB\NajdiCestu\NajdiCestu\bin\Debug\net6.0-windows\NajdiCestu.pdb
+C:\Users\miram\source\repos\3ITB\NajdiCestu\NajdiCestu\obj\Debug\net6.0-windows\NajdiCestu.csproj.AssemblyReference.cache
+C:\Users\miram\source\repos\3ITB\NajdiCestu\NajdiCestu\obj\Debug\net6.0-windows\NajdiCestu.Form1.resources
+C:\Users\miram\source\repos\3ITB\NajdiCestu\NajdiCestu\obj\Debug\net6.0-windows\NajdiCestu.csproj.GenerateResource.cache
+C:\Users\miram\source\repos\3ITB\NajdiCestu\NajdiCestu\obj\Debug\net6.0-windows\NajdiCestu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miram\source\repos\3ITB\NajdiCestu\NajdiCestu\obj\Debug\net6.0-windows\NajdiCestu.AssemblyInfoInputs.cache
+C:\Users\miram\source\repos\3ITB\NajdiCestu\NajdiCestu\obj\Debug\net6.0-windows\NajdiCestu.AssemblyInfo.cs
+C:\Users\miram\source\repos\3ITB\NajdiCestu\NajdiCestu\obj\Debug\net6.0-windows\NajdiCestu.csproj.CoreCompileInputs.cache
+C:\Users\miram\source\repos\3ITB\NajdiCestu\NajdiCestu\obj\Debug\net6.0-windows\NajdiCestu.dll
+C:\Users\miram\source\repos\3ITB\NajdiCestu\NajdiCestu\obj\Debug\net6.0-windows\refint\NajdiCestu.dll
+C:\Users\miram\source\repos\3ITB\NajdiCestu\NajdiCestu\obj\Debug\net6.0-windows\NajdiCestu.pdb
+C:\Users\miram\source\repos\3ITB\NajdiCestu\NajdiCestu\obj\Debug\net6.0-windows\NajdiCestu.genruntimeconfig.cache
+C:\Users\miram\source\repos\3ITB\NajdiCestu\NajdiCestu\obj\Debug\net6.0-windows\ref\NajdiCestu.dll

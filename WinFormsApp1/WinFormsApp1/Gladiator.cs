@@ -18,7 +18,7 @@ namespace WinFormsApp1
         public int Hp { get { return hp;  } set { hp = value; } }
         public int Utok { get { return utok; } }
         string jmeno;
-        public string Jmeno { get; }
+        public string Jmeno { get { return jmeno; } }
         int obratnost;
         public int Obratnost { get { return obratnost; } }
 
@@ -32,7 +32,7 @@ namespace WinFormsApp1
             this.stamina = stamina;
             this.jmeno = jmeno;
             this.obratnost = obratnost;
-            Arena.gladiatorList.Add(this);
+            Arena.leaderboard.Add(this, 0);
         }
         public Gladiator Zautoc(Gladiator souper) {
             Random rnd = new Random();
@@ -45,13 +45,11 @@ namespace WinFormsApp1
                         if (10 + souper.obratnost <= rnd.Next(0, 100))
                         {
                             //vyhnul sem se
-
                         }
                         else {
                             if (this.Utok - (int)(souper.Zbroj / 5) > 0) { //redukce dmg
                                 this.stamina -= potrebnaStaminaNaUtok;
                                 souper.Hp -= this.Utok - (int)(souper.Zbroj / 5);
-
                             }
                         }
                     }
@@ -69,7 +67,7 @@ namespace WinFormsApp1
                 return this;
             }
             Combat.RegeneraceStaminy(this);
-            return null;
+            return this;
         }
     }
 }
