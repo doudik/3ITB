@@ -5,14 +5,13 @@ namespace NajdiCestu
         public Form1()
         {
             InitializeComponent();
-            this.Height = 700;
-            this.Width = 700;
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            Player p1 = new Player("Gandalf", this);
-            Enemy.VygenerujEnemy(10, this);
+            new EndPoint(this);
+            new Player("Gandalf", this);
+            Enemy.VygenerujEnemy(30, this);
         }
     }
 }

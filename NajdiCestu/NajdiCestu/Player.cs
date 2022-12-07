@@ -6,19 +6,16 @@ using System.Threading.Tasks;
 
 namespace NajdiCestu
 {
-    internal class Player
+    internal class Player : Square
     {
         public string name { get; }
         public List<Moves> listOfMoves = new List<Moves>();
 
-        public Player(string name, Form1 form) {
+        public Player(string name, Form1 form) : base(form){
             this.name = name;
-            Panel p = new Panel();
-            p.Width = 50;
-            p.Height = 50;
             p.BackColor = Color.Black;
-            p.Location = new Point(form.Width / 2 - 50, form.Height / 2 - 50);
-            form.Controls.Add(p); 
+            p.Location = new Point(form.panel_gamePanel.Width / 2 - 50, form.panel_gamePanel.Height / 2 - 50);
+            form.panel_gamePanel.Controls.Add(p); 
         }
 
     }

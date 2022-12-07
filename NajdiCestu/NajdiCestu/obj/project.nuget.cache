@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FVWqX1fZjXGqI8r2EXkivadTH5huNCDhXeboOb0/1cnZARzh3K5x6PhFGiL/wE/GoXynNLkLm/c/MpWlgiTvvg==",
+  "dgSpecHash": "Jfp1cUGQ2Igt6h+00aS4bHJ6t/wDFitO3PuZm9mnnBPmEaxdG2yK1MgYpI4FsN6JN5aT73GHE4pL968d+KHogw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\miram\\source\\repos\\3ITB\\NajdiCestu\\NajdiCestu\\NajdiCestu.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\miram\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.11\\microsoft.netcore.app.host.win-x64.6.0.11.nupkg.sha512",
-    "C:\\Users\\miram\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.11\\microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
-    "C:\\Users\\miram\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512",
-    "C:\\Users\\miram\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.11\\microsoft.netcore.app.ref.6.0.11.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\miram\\Desktop\\3ITB\\NajdiCestu\\NajdiCestu\\NajdiCestu.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

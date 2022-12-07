@@ -16,12 +16,12 @@ namespace NajdiCestu
             p.Height = 50;
             p.Width = 50;
             //MessageBox.Show(form.Width.ToString());
-            int X = rnd.Next(0, form.Width);
+            int X = rnd.Next(0, form.panel_gamePanel.Width);
             X -= X % 50;
-            int Y = rnd.Next(0, form.Height);
+            int Y = rnd.Next(0, form.panel_gamePanel.Height);
             Y -= Y % 50;
             p.Location = new Point(X, Y);
-            form.Controls.Add(p);
+            form.panel_gamePanel.Controls.Add(p);
             
         }
     }
